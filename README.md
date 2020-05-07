@@ -16,7 +16,7 @@ Ejercicio: Autocorrector - (Corrección ortográfica de texto mediante análisis
 Ejercicio: Hiponimia - (Similitud de palabras, corpus de wikipedia con términos y significados)
 
 
-## Práctica 5
+## Práctica 5
 Ejercicio: Simplificación coseno
 
 
